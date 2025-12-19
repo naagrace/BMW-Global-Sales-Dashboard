@@ -51,4 +51,6 @@ The dataset includes the following columns:
   - Slicers
   - Conditional Formatting
 
+## Additional Dashboard View
+![BMW Global Sales Dashboard](dashboard1.png)
 
