@@ -2,7 +2,8 @@
 
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![BMW Global Sales Dashboard](dashboard.png)
+
 
 ## Project Overview
 This project analyzes BMW vehicle sales data from 2010 to 2024 across global regions.
@@ -50,6 +51,4 @@ The dataset includes the following columns:
   - Slicers
   - Conditional Formatting
 
-## Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
 
