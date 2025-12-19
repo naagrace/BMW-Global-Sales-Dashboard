@@ -1,5 +1,9 @@
 # BMW Global Sales Dashboard (2010–2024)
 
+
+## Dashboard Preview
+![Dashboard Preview](images/dashboard.png)
+
 ## Project Overview
 This project analyzes BMW vehicle sales data from 2010 to 2024 across global regions.
 The goal was to clean, transform, and visualize the data to uncover trends in sales performance,
